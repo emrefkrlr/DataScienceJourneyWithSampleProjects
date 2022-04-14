@@ -5,9 +5,10 @@ You can find all my data science notes, which I support all of my theoretical kn
 
 ## Classification Problem and Solutions
 
-The suspicious transaction problem is solved by applying logistic regression
+### 1 - Fraud Detection
 
-[FraudDetection.ipynb](https://github.com/emrefkrlr/DataScienceJourneyWithSampleProjects/blob/main/FraudDetection.ipynb "FraudDetection.ipynb")
-[Kaggle](https://www.kaggle.com/code/emrefikirlier/get-99-success-for-fraud-detection-using-logreg "Kaggle")
+The suspicious transaction problem is solved by applying logistic regression. %99 Accuracy.
+* [FraudDetection.ipynb](https://github.com/emrefkrlr/DataScienceJourneyWithSampleProjects/blob/main/FraudDetection.ipynb "FraudDetection.ipynb")
+* [Kaggle](https://www.kaggle.com/code/emrefikirlier/get-99-success-for-fraud-detection-using-logreg "Kaggle")
 
 
