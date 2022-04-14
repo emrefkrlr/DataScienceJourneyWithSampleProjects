@@ -1,2 +1,2 @@
 # FraudDetectionLogisticRegression
-Classification Example Prohects # 1
+Classification Example Projects # 1
